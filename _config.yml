@@ -28,7 +28,7 @@ twitter_username: renambot
 github_username:  renambot
 
 # Build settings
-theme: cayman
+#theme: cayman
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
